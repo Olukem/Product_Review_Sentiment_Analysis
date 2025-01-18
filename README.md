@@ -1,7 +1,7 @@
 # Product_Review_Sentiment_Analysis
 
 
-<video src= "https://github.com/Olukem/Product_Review_Sentiment_Analysis/blob/main/demo.mp4" controls>
+<video src= "https://github.com/Olukem/Product_Review_Sentiment_Analysis/raw/main/demo.mp4" controls>
 </video>
 
 <video src="https://github.com/Olukem/Product_Review_Sentiment_Analysis/raw/main/Demo.mp4" controls width="720">
