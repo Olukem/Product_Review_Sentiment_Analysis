@@ -4,7 +4,7 @@
 <video src= "https://github.com/Olukem/Product_Review_Sentiment_Analysis/raw/main/demo.mp4" controls>
 </video>
 
-<video src="https://github.com/Olukem/Product_Review_Sentiment_Analysis/raw/main/Demo.mp4" controls width="720">
+<video src="https://github.com/Olukem/Product_Review_Sentiment_Analysis/raw/main/Demo.mp4" controls="controls" style="max-width: 100%;">
 </video>
 
 # Overview
