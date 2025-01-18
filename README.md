@@ -1,5 +1,10 @@
 # Product_Review_Sentiment_Analysis
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Olukem/Product_Review_Sentiment_Analysis/main/sa.jpg" alt="Sentiment Analysis Screenshot" width="600">
+</div>
+
+
 # Overview
 In today's e-commerce landscape, analyzing customer feedback is crucial for businesses to make data-driven decisions. This project focuses on building an end-to-end sentiment analysis solution for customer review for our business stakeholers. By leveraging Data Science and Machine Learning techniques, the project aims to preprocess, analyze, and visualize customer sentiments from textual reviews. A successful sentiment analysis implementation will significantly enhance customer trust and business growth..
 
